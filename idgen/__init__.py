@@ -1,2 +1,2 @@
 #!python
-pass
+from .xuuid import uuid
